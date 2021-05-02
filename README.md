@@ -2,7 +2,7 @@
 I'm Aviva. Nice to meet you! </h1>
 
 
-<img align="left" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif">  
+<img align="left" height="500px" width="500px" src="https://image.freepik.com/free-vector/single-page-application-abstract-concept-illustration-spa-web-page-web-development-trend-app-inside-browser-dynamically-rewriting-page-responsive-website-creation_335657-899.jpg">  
 
 <h2> I'm Jr. Full-Stack Developer </h2>
 
