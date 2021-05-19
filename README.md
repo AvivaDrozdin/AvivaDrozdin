@@ -44,7 +44,7 @@ I'm Aviva. Nice to meet you! </h1>
 <br>
 
 
-<h4> Other Tools: </h4> <br>
+<h4> How I organize: </h4> <br>
 
 <img alt="trello" width="30px" src="https://img.icons8.com/color/48/000000/trello.png"/>
 
