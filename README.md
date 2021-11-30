@@ -33,6 +33,8 @@ I'm Aviva. Nice to meet you! </h1>
 
 <img alt="postgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
+<img alt="MongoDB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
 <img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -49,3 +51,4 @@ I'm Aviva. Nice to meet you! </h1>
 <img alt="trello" width="30px" src="https://img.icons8.com/color/48/000000/trello.png"/>
 
 <img  alt="jira"  width="30px" src="https://img.icons8.com/color/48/000000/jira.png"/>
+
